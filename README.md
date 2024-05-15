@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello! I'm Akshay Kumar Adapa</h1>
 
 <p align="center">
@@ -51,17 +50,17 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 
 ## PROJECTS
 
-### You-Tube Data Harvesting - Warehousing
+### [YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
 
-- Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.
-- Orchestrated data collection, storage, and migration leveraging MongoDB and MySQL.
-- Facilitated user-friendly data exploration and analytics of YouTube content via Streamlit interface.
+### [Phonepe Data Visualization](https://github.com/AkshayAdapa/Phonepe_Pulse.git)
 
-### Phonepe Data visualization
+### [BizCardX: Extracting Business Card Data with OCR](https://github.com/AkshayAdapa/BizCardX.git)
 
-- Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.
-- Improved fintech data analysis with Pandas, MySQL, and Plotly for efficient storage and visualization.
-- Streamlined data extraction and transformation for PhonePe Pulse GitHub data, ensuring reliability and efficiency.
+### [Singapore Resale Flat Price Predicting](https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction.git)
+
+### [Industrial Copper Modeling](https://github.com/AkshayAdapa/Industrial_Copper_Modeling.git)
+
+### [Stock Price Prediction](https://github.com/AkshayAdapa/Stock-Price-Prediction-Google-.git)
 
 ---
 
@@ -76,7 +75,7 @@ Relevant Coursework: Proficient in communication, leadership, and teamwork with 
 
 ## HACKATHONS
 
-### Movie Recommendation system
+### Movie Recommendation System
 **Innomatics Research Labs** | 6 Hours
 
 Participated in a movie recommendation system hackathon, applying problem-solving skills and teamwork to develop innovative algorithms for enhanced user experience and recommendation accuracy.
