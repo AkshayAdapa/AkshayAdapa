@@ -13,7 +13,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-A motivated and detail-oriented individual seeking a challenging position as a data analyst where I can utilize my skills in statistical analysis, data visualization, programming, and AWS to contribute to the success of the organization while continuing to learn and grow in a dynamic environment.
+A motivated and detail-oriented individual seeking a challenging position as a data analyst where I can utilize my skills in statistical analysis, data visualization, programming to contribute to the success of the organization while continuing to learn and grow in a dynamic environment.
 
 ---
 
@@ -23,6 +23,7 @@ A motivated and detail-oriented individual seeking a challenging position as a d
 - **Databases**: SQL, MongoDB
 - **Tools**: MS Excel, Pandas, NumPy, PowerBI, Streamlit
 - **Techniques**: EDA, Data Cleaning, Data Analysis, Machine Learning, Statistics
+- **Cloud Services**: AWS
 - **Soft Skills**: Adaptability, Communication, Creativity, Teamwork
 
 ---
