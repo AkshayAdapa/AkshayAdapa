@@ -53,22 +53,22 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 
 ## PROJECTS
 
-### [YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
+### 1.[YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
 - Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.
 
-### [Phonepe Data Visualization](https://github.com/AkshayAdapa/Phonepe_Pulse.git)
+### 2.[Phonepe Data Visualization](https://github.com/AkshayAdapa/Phonepe_Pulse.git)
 - Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.
 
-### [BizCardX: Extracting Business Card Data with OCR](https://github.com/AkshayAdapa/BizCardX.git)
+### 3.[BizCardX: Extracting Business Card Data with OCR](https://github.com/AkshayAdapa/BizCardX.git)
 - Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.
 
-### [Industrial Copper Modeling](https://github.com/AkshayAdapa/Industrial_Copper_Modeling.git)
+### 4.[Industrial Copper Modeling](https://github.com/AkshayAdapa/Industrial_Copper_Modeling.git)
 - Simplifying sales and lead prediction in the copper industry using machine learning techniques.
 
-### [Singapore Resale Flat Prices Predicting](https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction.git)
+### 5.[Singapore Resale Flat Prices Predicting](https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction.git)
 - Developing a user-friendly web application for predicting resale prices of flats in Singapore.
 
-### [Google Stock Prices Prediction](https://github.com/AkshayAdapa/Stock-Price-Prediction-Google-.git)
+### 6.[Google Stock Prices Prediction](https://github.com/AkshayAdapa/Stock-Price-Prediction-Google-.git)
 - Developing an ML model to predict stock prices using time series analysis.
 ---
 
