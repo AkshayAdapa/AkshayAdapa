@@ -52,8 +52,11 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 
 ## PROJECTS
 
-### 1.[YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
-- Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.
+### 1. [YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
+   - Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.
+   <p align="center">
+     <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="200">
+   </p>
 
 ### 2.[Phonepe Data Visualization](https://github.com/AkshayAdapa/Phonepe_Pulse.git)
 - Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.
