@@ -52,26 +52,57 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 
 ## PROJECTS
 
-### 1. [YouTube Data Harvesting](https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git)
-   - Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.
-   <p align="center">
-     <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="200">
-   </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
+    <p align="center">
+      <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="200">
+    </p>
+    <h3 align="center"><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">YouTube Data Harvesting</a></h3>
+    <p align="center">Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
+  </div>
+  <div style="flex: 0 0 auto; width: 45%;">
+    <p align="center">
+      <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" width="200">
+    </p>
+    <h3 align="center"><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">Phonepe Data Visualization</a></h3>
+    <p align="center">Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
+  </div>
+</div>
 
-### 2.[Phonepe Data Visualization](https://github.com/AkshayAdapa/Phonepe_Pulse.git)
-- Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
+    <p align="center">
+      <img src="placeholder_image_url" alt="Project 3" width="200">
+    </p>
+    <h3 align="center"><a href="placeholder_link">Project 3 Title</a></h3>
+    <p align="center">Project 3 Description</p>
+  </div>
+  <div style="flex: 0 0 auto; width: 45%;">
+    <p align="center">
+      <img src="placeholder_image_url" alt="Project 4" width="200">
+    </p>
+    <h3 align="center"><a href="placeholder_link">Project 4 Title</a></h3>
+    <p align="center">Project 4 Description</p>
+  </div>
+</div>
 
-### 3.[BizCardX: Extracting Business Card Data with OCR](https://github.com/AkshayAdapa/BizCardX.git)
-- Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
+    <p align="center">
+      <img src="placeholder_image_url" alt="Project 5" width="200">
+    </p>
+    <h3 align="center"><a href="placeholder_link">Project 5 Title</a></h3>
+    <p align="center">Project 5 Description</p>
+  </div>
+  <div style="flex: 0 0 auto; width: 45%;">
+    <p align="center">
+      <img src="placeholder_image_url" alt="Project 6" width="200">
+    </p>
+    <h3 align="center"><a href="placeholder_link">Project 6 Title</a></h3>
+    <p align="center">Project 6 Description</p>
+  </div>
+</div>
 
-### 4.[Industrial Copper Modeling](https://github.com/AkshayAdapa/Industrial_Copper_Modeling.git)
-- Simplifying sales and lead prediction in the copper industry using machine learning techniques.
-
-### 5.[Singapore Resale Flat Prices Predicting](https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction.git)
-- Developing a user-friendly web application for predicting resale prices of flats in Singapore.
-
-### 6.[Google Stock Prices Prediction](https://github.com/AkshayAdapa/Stock-Price-Prediction-Google-.git)
-- Developing an ML model to predict stock prices using time series analysis.
 ---
 
 ## EDUCATION
@@ -96,3 +127,4 @@ Participated in a movie recommendation system hackathon, applying problem-solvin
 
 - **Letter Of Recommendation**: Received strong commendation in a Letter of Recommendation for exceptional performance and dedication during a Data Science internship at Prodigy InfoTech, highlighting exemplary work ethic, professionalism, problem-solving skills, and aptitude for learning.
 - **Certifications**: Successfully recognized by JNTUH in entrepreneurship awareness camp. Certification from NGC and NSS cell JNTUH in Asia’s largest youth meet on safe water for future.
+
