@@ -71,25 +71,25 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
   <tr>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
-        <img src="image_path_1" alt="BizCardX" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/AkshayAdapa/BizCardX/blob/main/BizCard%20symbol%20pic.jpg" alt="BizCardX" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="project_link_1">3. BizCardX</a></h3>
+      <h3><a href="https://github.com/AkshayAdapa/BizCardX">3. BizCardX</a></h3>
       <p>Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.</p>
     </td>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
-        <img src="image_path_2" alt="Singapore Resale Flat Prices Predicting" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction/blob/main/singapore%20flat%20sale%20symbol.jpg" alt="Singapore Resale Flat Prices Predicting" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="project_link_2">4. Singapore Resale Flat Prices Predicting</a></h3>
+      <h3><a href="https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction">4. Singapore Resale Flat Prices Predicting</a></h3>
       <p>Developing a user-friendly web application for predicting resale prices of flats in Singapore.</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
-        <img src="image_path_3" alt="Industrial Copper Modeling" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/AkshayAdapa/Industrial_Copper_Modeling/blob/main/copper%20modeling%20symbol.jpg" alt="Industrial Copper Modeling" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="project_link_3">5. Industrial Copper Modeling</a></h3>
+      <h3><a href="https://github.com/AkshayAdapa/Industrial_Copper_Modeling">5. Industrial Copper Modeling</a></h3>
       <p>Simplifying sales and lead prediction in the copper industry using machine learning techniques.</p>
     </td>
     <td style="text-align: center; padding: 20px;">
