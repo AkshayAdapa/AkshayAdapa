@@ -49,28 +49,60 @@ Jan 2024 - Feb 2024
 Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipulation, SQL for effective data management, and PyTorch for deep learning, encompassing regression, classification, and neural networks for real-world problem-solving.
 
 ---
-
 ## PROJECTS
 
 <table>
   <tr>
     <td style="text-align: center; padding: 20px;">
-      <p>
-        <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="150">
-      </p>
-      <h3><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">YouTube Data Harvesting</a></h3>
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">1. YouTube Data Harvesting</a></h3>
       <p>Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
     </td>
     <td style="text-align: center; padding: 20px;">
-      <p>
-        <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" width="150">
-      </p>
-      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">Phonepe Data Visualization</a></h3>
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">2. Phonepe Data Visualization</a></h3>
       <p>Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
     </td>
   </tr>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="image_path_1" alt="BizCardX" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="project_link_1">3. BizCardX</a></h3>
+      <p>Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.</p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="image_path_2" alt="Singapore Resale Flat Prices Predicting" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="project_link_2">4. Singapore Resale Flat Prices Predicting</a></h3>
+      <p>Developing a user-friendly web application for predicting resale prices of flats in Singapore.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="image_path_3" alt="Industrial Copper Modeling" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="project_link_3">5. Industrial Copper Modeling</a></h3>
+      <p>Simplifying sales and lead prediction in the copper industry using machine learning techniques.</p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+        <img src="image_path_4" alt="Google Stock Prices Prediction" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <h3><a href="project_link_4">6. Google Stock Prices Prediction</a></h3>
+      <p>Developing an ML model to predict stock prices using time series analysis.</p>
+    </td>
+  </tr>
 </table>
----
+
+
 
 ## EDUCATION
 
