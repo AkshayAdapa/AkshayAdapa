@@ -13,7 +13,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-A motivated and detail-oriented individual seeking a challenging position as a data analyst where I can utilize my skills in statistical analysis, data visualization, and programming to contribute to the success of the organization while continuing to learn and grow in a dynamic environment.
+A motivated and detail-oriented individual seeking a challenging position as a data analyst where I can utilize my skills in statistical analysis, data visualization, programming, and AWS to contribute to the success of the organization while continuing to learn and grow in a dynamic environment.
 
 ---
 
@@ -33,9 +33,10 @@ A motivated and detail-oriented individual seeking a challenging position as a d
 **Prodigy InfoTech** | Mumbai, MH, India  
 Jan 2024 - Feb 2024
 
-- Analyzed real-time student data, creating visualizations with Python libraries like Matplotlib and Seaborn.
-- Executed comprehensive data cleaning and exploratory analysis on the Roller Coaster dataset.
-- Built and evaluated a Decision Tree Classifier model for predicting customer purchases.
+- Analyzed real-time student data, creating visualizations with Python libraries like Matplotlib and Seaborn. ([Project 1](https://github.com/AkshayAdapa/PRODIGY_DS_01_Visualization.git))
+- Executed comprehensive data cleaning and exploratory analysis on the Roller Coaster dataset. ([Project 2](https://github.com/AkshayAdapa/PRODIGY_DS_02_EDA.git))
+- Built and evaluated a Decision Tree Classifier model for predicting customer purchases. ([Project 3](https://github.com/AkshayAdapa/PRODIGY_DS_03_Decision_Tree.git))
+- Analyzed traffic accident data to derive insights on accident trends and contributing factors. ([Project 4](https://github.com/AkshayAdapa/PRODIGY_DS_05_-Analyze-traffic-accident-data.git))
 
 ---
 
