@@ -52,57 +52,24 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 
 ## PROJECTS
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
-    <p align="center">
-      <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="200">
-    </p>
-    <h3 align="center"><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">YouTube Data Harvesting</a></h3>
-    <p align="center">Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
-  </div>
-  <div style="flex: 0 0 auto; width: 45%;">
-    <p align="center">
-      <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" width="200">
-    </p>
-    <h3 align="center"><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">Phonepe Data Visualization</a></h3>
-    <p align="center">Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
-    <p align="center">
-      <img src="placeholder_image_url" alt="Project 3" width="200">
-    </p>
-    <h3 align="center"><a href="placeholder_link">Project 3 Title</a></h3>
-    <p align="center">Project 3 Description</p>
-  </div>
-  <div style="flex: 0 0 auto; width: 45%;">
-    <p align="center">
-      <img src="placeholder_image_url" alt="Project 4" width="200">
-    </p>
-    <h3 align="center"><a href="placeholder_link">Project 4 Title</a></h3>
-    <p align="center">Project 4 Description</p>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 0 0 auto; width: 45%; margin-right: 5%;">
-    <p align="center">
-      <img src="placeholder_image_url" alt="Project 5" width="200">
-    </p>
-    <h3 align="center"><a href="placeholder_link">Project 5 Title</a></h3>
-    <p align="center">Project 5 Description</p>
-  </div>
-  <div style="flex: 0 0 auto; width: 45%;">
-    <p align="center">
-      <img src="placeholder_image_url" alt="Project 6" width="200">
-    </p>
-    <h3 align="center"><a href="placeholder_link">Project 6 Title</a></h3>
-    <p align="center">Project 6 Description</p>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <p>
+        <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" width="150">
+      </p>
+      <h3><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">YouTube Data Harvesting</a></h3>
+      <p>Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
+    </td>
+    <td style="text-align: center; padding: 20px;">
+      <p>
+        <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" width="150">
+      </p>
+      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">Phonepe Data Visualization</a></h3>
+      <p>Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## EDUCATION
@@ -127,4 +94,3 @@ Participated in a movie recommendation system hackathon, applying problem-solvin
 
 - **Letter Of Recommendation**: Received strong commendation in a Letter of Recommendation for exceptional performance and dedication during a Data Science internship at Prodigy InfoTech, highlighting exemplary work ethic, professionalism, problem-solving skills, and aptitude for learning.
 - **Certifications**: Successfully recognized by JNTUH in entrepreneurship awareness camp. Certification from NGC and NSS cell JNTUH in Asia’s largest youth meet on safe water for future.
-
