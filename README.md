@@ -42,7 +42,7 @@ Jan 2024 - Feb 2024
 ## COURSES
 
 ### Mastering in Data Science
-**GUVI-IIT Madras Research Park** | Dec 2023 - April 2024(Expected)
+**GUVI-IIT Madras Research Park** | Dec 2023 - April 2024
 
 Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipulation, SQL for effective data management, and PyTorch for deep learning, encompassing regression, classification, and neural networks for real-world problem-solving.
 
