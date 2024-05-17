@@ -19,12 +19,74 @@ A motivated and detail-oriented individual seeking a challenging position as a d
 
 ## SKILLS
 
-- **Languages**: Python
-- **Databases**: SQL, MongoDB
-- **Tools**: MS Excel, Pandas, NumPy, PowerBI, Streamlit
-- **Techniques**: EDA, Data Cleaning, Data Analysis, Machine Learning, Statistics
-- **Cloud Services**: AWS
-- **Soft Skills**: Adaptability, Communication, Creativity, Teamwork
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impressive Skills Section</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .skill {
+            display: inline-block;
+            margin-right: 20px;
+            vertical-align: top;
+        }
+        .skill img {
+            width: 24px;
+            height: 24px;
+            margin-bottom: 5px;
+        }
+        .skill h3 {
+            margin: 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon">
+            <h3>Python</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Icon">
+            <h3>SQL</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database Icon">
+            <h3>Databases</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/settings.png" alt="Tools Icon">
+            <h3>Tools</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/search-property.png" alt="Techniques Icon">
+            <h3>Techniques</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="Cloud Services Icon">
+            <h3>Cloud Services</h3>
+        </div>
+        <div class="skill">
+            <img src="https://img.icons8.com/color/48/000000/paint-palette.png" alt="Soft Skills Icon">
+            <h3>Soft Skills</h3>
+        </div>
+    </div>
+</body>
+</html>
 
 ---
 
