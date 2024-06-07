@@ -100,7 +100,11 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
   </tr>
 </table>
 
-
+## Additional Projects
+<div style="padding: 10px;">
+  <a href="https://github.com/AkshayAdapa/License-Plate-Recognition" style="text-decoration: none; display: block; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px; text-align: center; background-color: #f9f9f9;">License Plate Recognition</a>
+  <a href="https://github.com/AkshayAdapa/Stock-Price-Prediction-Google" style="text-decoration: none; display: block; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px; text-align: center; background-color: #f9f9f9;">Stock Price Prediction Google</a>
+</div>
 
 ## EDUCATION
 
