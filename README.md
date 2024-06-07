@@ -49,21 +49,23 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
 ---
 ## PROJECTS
 
-<table>
-  <tr>
+<table style="height: 100px;">
+   <tr>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
         <img src="https://github.com/AkshayAdapa/YouTube_Data_Harvesting/blob/main/youtube%20data%20symbol.jpg?raw=true" alt="YouTube Data Harvesting" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting.git">1. YouTube Data Harvesting</a></h3>
-      <p>Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
+      <h3><a href="https://github.com/AkshayAdapa/YouTube_Data_Harvesting">1. YouTube Data Harvesting</a></h3>
+      <p style="font-size: smaller;">Engineered a streamlined Streamlit application integrating SQL, MongoDB, and YouTube Data API.</p>
+      <p style="font-size: smaller;">Key Skills: Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL</p>
     </td>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
-        <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="Phonepe Data Visualization" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/AkshayAdapa/Phonepe_Pulse/blob/main/phonepe%20symbol.jpg?raw=true" alt="PhonePe Data Visualization" style="max-width: 100%; max-height: 100%;">
       </div>
-      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse.git">2. Phonepe Data Visualization</a></h3>
-      <p>Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
+      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse">2. PhonePe Data Visualization</a></h3>
+      <p style="font-size: smaller;">Developed user-friendly visualization tool for PhonePe Pulse using Python, Streamlit, and Plotly.</p>
+      <p style="font-size: smaller;">Key Skills: Python, MySQL, Streamlit, Plotly, Data Visualization, Data Extraction, Data Processing, Statistical Analysis</p>
     </td>
   </tr>
   <tr>
@@ -72,14 +74,16 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
         <img src="https://github.com/AkshayAdapa/BizCardX/blob/main/BizCard%20symbol%20pic.jpg" alt="BizCardX" style="max-width: 100%; max-height: 100%;">
       </div>
       <h3><a href="https://github.com/AkshayAdapa/BizCardX">3. BizCardX</a></h3>
-      <p>Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.</p>
+      <p style="font-size: smaller;">Simplifying the extraction and management of business card data using Optical Character Recognition (OCR) technology.</p>
+      <p style="font-size: smaller;">Key skills: Python, Pandas, numpy, OCR (easyOCR), MySQL, Image Processing, Streamlit</p>
     </td>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
         <img src="https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction/blob/main/singapore%20flat%20sale%20symbol.jpg" alt="Singapore Resale Flat Prices Predicting" style="max-width: 100%; max-height: 100%;">
       </div>
       <h3><a href="https://github.com/AkshayAdapa/singapore_resale_flat_price_prediction">4. Singapore Resale Flat Prices Predicting</a></h3>
-      <p>Developing a user-friendly web application for predicting resale prices of flats in Singapore.</p>
+      <p style="font-size: smaller;">Developing a user-friendly web application for predicting resale prices of flats in Singapore.</p>
+      <p style="font-size: smaller;">Key Skills: Python, Pandas, NumPy, Scikit-learn, Regression, Machine Learning, Data Preprocessing, Model Evaluation, Fine-tuning</p>
     </td>
   </tr>
   <tr>
@@ -88,23 +92,44 @@ Mastered Python, SQL, and machine learning. Proficient in Pandas for data manipu
         <img src="https://github.com/AkshayAdapa/Industrial_Copper_Modeling/blob/main/copper%20modeling%20symbol.jpg" alt="Industrial Copper Modeling" style="max-width: 100%; max-height: 100%;">
       </div>
       <h3><a href="https://github.com/AkshayAdapa/Industrial_Copper_Modeling">5. Industrial Copper Modeling</a></h3>
-      <p>Simplifying sales and lead prediction in the copper industry using machine learning techniques.</p>
+      <p style="font-size: smaller;">Simplifying sales and lead prediction in the copper industry using machine learning techniques.</p>
+      <p style="font-size: smaller;">Key Skills : Python, ML Regression, ML Classification, Data Pre-processing, EDA</p>
     </td>
     <td style="text-align: center; padding: 20px;">
       <div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
-        <img src="image_path_4" alt="Google Stock Prices Prediction" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github.com/AkshayAdapa/Stock-Price-Prediction-Google/blob/main/Stock%20price%20prediction%20image.png" alt="Google Stock Prices Prediction" style="max-width: 100%; max-height: 100%;">
       </div>
       <h3><a href="project_link_4">6. Google Stock Prices Prediction</a></h3>
-      <p>Developing an ML model to predict stock prices using time series analysis.</p>
+      <p style="font-size: smaller;">Developing an ML model to predict stock prices using time series analysis.</p>
+      <p style="font-size: smaller;">Key Skills:Python, Machine Learning, Time Series Analysis, Data Preprocessing, Neural Networks, Financial Data Analysis, Statistical Analysis</p>
     </td>
   </tr>
 </table>
 
-## Additional Projects
-<div style="padding: 10px;">
-  <a href="https://github.com/AkshayAdapa/License-Plate-Recognition" style="text-decoration: none; display: block; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px; text-align: center; background-color: #f9f9f9;">License Plate Recognition</a>
-  <a href="https://github.com/AkshayAdapa/Stock-Price-Prediction-Google" style="text-decoration: none; display: block; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px; text-align: center; background-color: #f9f9f9;">Stock Price Prediction Google</a>
-</div>
+### Additional Projects
+
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://f5b623aa.rocketcdn.me/wp-content/uploads/2022/08/Blog_Automatic-Number-Plate-Recognition-ANPR.jpg" alt="License Plate Recognition" style="width: 100%; height: auto; margin-bottom: 10px;">
+      <h3><a href="https://github.com/AkshayAdapa/License-Plate-Recognition">License Plate Recognition</a></h3>
+      <p style="font-size: xx-small;">Key skills: Python, ML/DL, Data Preprocessing, Augmentation, Model Evaluation/Optimization</p>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://github.com/AkshayAdapa/Ecommerce-Sales-Dashboard-PowerBI/blob/main/Ecommerce%20sales%20dashboard%20screen%20short.png" alt="Ecommerce Shop Sales Dashboard" style="width: 100%; height: auto; margin-bottom: 10px;">
+      <h3><a href="https://github.com/AkshayAdapa/Ecommerce-Sales-Dashboard-PowerBI">Ecommerce Shop Sales Dashboard</a></h3>
+      <p style="font-size: xx-small;">Key Skills: Data analysis, Data visualization, Power BI, Data modeling</p>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="PhonePe Data Visualization" style="width: 100%; height: auto; margin-bottom: 10px;">
+      <h3><a href="https://github.com/AkshayAdapa/Phonepe_Pulse">PhonePe Data Visualization</a></h3>
+    </td>
+    <td style="text-align: center; width: 25%;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Stock Price Prediction Google" style="width: 100%; height: auto; margin-bottom: 10px;">
+      <h3><a href="https://github.com/AkshayAdapa/Stock-Price-Prediction-Google">Stock Price Prediction Google</a></h3>
+    </td>
+  </tr>
+</table>
 
 ## EDUCATION
 
